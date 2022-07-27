@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TvChallenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_title">Titulo: %1$s</string>
+    <string name="txt_lang">Lenguaje: %1$s</string>
+    <string name="txt_champ">Premiada: %1$s</string>
+    <string name="txt_origin">Origen: %1$s</string>
+    <string name="txt_type">Tipo: %1$s</string>
+    <string name="txt_description">Descripcion: %1$s</string>
+    <string name="txt_generic_error">sin informacion</string>
+</resources>
